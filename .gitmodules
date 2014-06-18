@@ -6,7 +6,7 @@
 	url = https://github.com/bender1/chef-kibana.git
 [submodule "logstash"]
 	path = logstash
-	url = git@github.com:bender1/chef-logstash.git
+	url = https://github.com/bender1/chef-logstash.git
 [submodule "redisio"]
 	path = redisio
 	url = https://github.com/brianbianco/redisio.git
